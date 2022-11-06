@@ -1,0 +1,4 @@
+opencv-python
+random2
+mediapipe
+pygame
